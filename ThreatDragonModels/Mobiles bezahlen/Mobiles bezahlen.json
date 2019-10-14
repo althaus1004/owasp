@@ -5,7 +5,11 @@
     "description": "Der Kunde bezahlt mobile mit seinem Handy (i.e. Apple Pay oder TWINT) wie in der Grafik dargestellt.  Die Kreditkarte kann in der App hinterlegt werden oder das Konto wird prepay (Vorauszahlung) aufgeladen"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Althaus"
+      }
+    ],
     "diagrams": []
   }
 }
