@@ -10,6 +10,12 @@
         "name": "Althaus"
       }
     ],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Thread diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
